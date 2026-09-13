@@ -1,6 +1,8 @@
 DECIDE, CUÍDATE Y PROTÉGETE
 
 Primera versión del repositorio educativo de salud sexual y reproductiva.
+Diseño territorial inspirado en el río Naya y dirigido a población afrocolombiana,
+indígena Eperãra Siapidaarã y comunidad en general.
 
 CÓMO ABRIRLO
 1. Abra la carpeta.
@@ -12,6 +14,8 @@ ANTES DE PUBLICAR
 - Confirmar números, sedes y horarios de Buenaventura.
 - Configurar el WhatsApp institucional.
 - Incorporar los materiales descargables aprobados.
+- Copiar los videos dentro de materiales/videos con los nombres indicados en LEEME.txt.
+- Copiar los flyers dentro de materiales/flyers con los nombres indicados en LEEME.txt.
 - Obtener revisión técnica y autorización institucional.
 
 CÓMO SUBIRLO A GITHUB
