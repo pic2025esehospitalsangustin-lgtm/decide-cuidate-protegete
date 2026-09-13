@@ -1,0 +1,11 @@
+COLOQUE AQUÍ LOS VIDEOS APROBADOS CON ESTOS NOMBRES:
+
+- video-its.mp4
+- condon-externo.mp4
+- condon-interno.mp4
+- falla-condon.mp4
+- implante-doble-proteccion.mp4
+- derechos-rutas.mp4
+
+También puede reemplazar los enlaces locales de index.html por enlaces oficiales
+de YouTube, Google Drive u otra plataforma institucional.
